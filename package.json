@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "NodeJS Lecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haengjun-test/myapp.git"
+  },
+  "keywords": [
+    "Lecture"
+  ],
+  "author": "haengjun.shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haengjun-test/myapp/issues"
+  },
+  "homepage": "https://github.com/haengjun-test/myapp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
